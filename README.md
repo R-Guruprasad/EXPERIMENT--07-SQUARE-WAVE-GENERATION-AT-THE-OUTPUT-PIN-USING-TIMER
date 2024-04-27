@@ -90,27 +90,36 @@ Step11. click on debug and simulate using simulation
 FOR PULSE AT 5000
 ![image](https://github.com/R-Guruprasad/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119390308/ff40e5bb-6d52-4a01-861b-1c236d0bf4ff)
 
-TON = 
-TOFF=
-TOTAL TIME = 
-FREQUENCY = 1/(TOTAL TIME)
+TON = 2.5 ms
+
+TOFF= 2.5 ms
+
+TOTAL TIME = 5 ms
+
+FREQUENCY = 1/(5) = 0.2 Hz
 
 FOR PULSE AT 7000
 ![image](https://github.com/R-Guruprasad/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119390308/8f4ed4cd-9d00-429a-a9f3-c16dc0403a50)
 
-TON = 
-TOFF=
-TOTAL TIME = 
-FREQUENCY = 1/(TOTAL TIME)
+TON = 3.5 ms
+
+TOFF= 1.5 ms
+
+TOTAL TIME = 5 ms
+
+FREQUENCY = 1/(5) = 0.2 Hz
 
 
 FOR PULSE AT 9000
 ![image](https://github.com/R-Guruprasad/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119390308/e723309c-ba05-4084-9cca-730ba13f7928)
 
-TON = 
-TOFF=
-TOTAL TIME = 
-FREQUENCY = 1/(TOTAL TIME)
+TON = 4.5 ms
+
+TOFF= 0.5 ms 
+
+TOTAL TIME =  5 ms 
+
+FREQUENCY = 1/(5) = 0.2 Hz
 
 
 ## Result :
